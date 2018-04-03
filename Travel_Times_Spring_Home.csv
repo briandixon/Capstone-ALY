@@ -1,0 +1,728 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"885","1 Lincoln St, Boston, MA","3","0 Flaherty Way, D Street / West Broadway, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",670,391,1145
+"885","1 Lincoln St, Boston, MA","4","0 Moulton Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1763,1006,3087
+"885","1 Lincoln St, Boston, MA","5","0 Queensberry Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1236,907,1683
+"885","1 Lincoln St, Boston, MA","13","200 Liberty Street, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1829,1208,2768
+"885","1 Lincoln St, Boston, MA","14","400 Cushing Street, Hingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2352,1628,3396
+"885","1 Lincoln St, Boston, MA","16","100 Kenrick Street, Oak Square, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1727,1273,2342
+"885","1 Lincoln St, Boston, MA","17","0 Maggi Road, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1536,943,2501
+"885","1 Lincoln St, Boston, MA","18","0 Lake Street, Billerica","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2728,1938,3838
+"885","1 Lincoln St, Boston, MA","19","200 Ocean Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2610,2007,3393
+"885","1 Lincoln St, Boston, MA","20","0 Florence Street, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1631,1204,2207
+"885","1 Lincoln St, Boston, MA","21","0 Canal Lane, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1010,616,1654
+"885","1 Lincoln St, Boston, MA","23","0 Ocallaghan Way, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2329,1670,3247
+"885","1 Lincoln St, Boston, MA","24","Blue Star Memorial Highway, Bourne","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5768,4388,7581
+"885","1 Lincoln St, Boston, MA","27","100 Inner Belt Road, Inner Belt, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",849,477,1509
+"885","1 Lincoln St, Boston, MA","28","0 Lincoln Road, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1869,1460,2392
+"885","1 Lincoln St, Boston, MA","29","100 Crosby Street, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2001,1467,2729
+"885","1 Lincoln St, Boston, MA","30","0 Stagecoach Way, Hopkinton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2929,2068,4147
+"885","1 Lincoln St, Boston, MA","32","0 Gainsborough Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1191,879,1613
+"885","1 Lincoln St, Boston, MA","33","200 Prospect Avenue, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1135,735,1750
+"885","1 Lincoln St, Boston, MA","37","0 Perrin Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1247,893,1740
+"885","1 Lincoln St, Boston, MA","38","McLean Street, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2312,1752,3050
+"885","1 Lincoln St, Boston, MA","40","0 Aycliffe Road, Swampscott","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2812,2214,3571
+"885","1 Lincoln St, Boston, MA","41","200 Sumner Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",968,633,1478
+"885","1 Lincoln St, Boston, MA","46","300 River Street, Cambridgeport, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1023,666,1570
+"885","1 Lincoln St, Boston, MA","47","200 Huntington Avenue, Prudential / St. Botolph, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",953,469,1934
+"885","1 Lincoln St, Boston, MA","48","100 Gove Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1067,720,1579
+"885","1 Lincoln St, Boston, MA","51","0 Peterborough Street, West Fens, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1248,838,1856
+"885","1 Lincoln St, Boston, MA","52","0 Berkshire Street, Wellington-Harrington, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1314,971,1776
+"885","1 Lincoln St, Boston, MA","53","600 Commonwealth Avenue, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",587,257,1340
+"885","1 Lincoln St, Boston, MA","54","0 Binney Street, Arefth, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1155,780,1710
+"885","1 Lincoln St, Boston, MA","57","100 Memorial Park Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2895,2136,3922
+"885","1 Lincoln St, Boston, MA","58","100 Summit Avenue, Corey Hill, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1701,1253,2309
+"885","1 Lincoln St, Boston, MA","59","300 Shea Memorial Drive, SouthField, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2138,1654,2762
+"885","1 Lincoln St, Boston, MA","60","Pilgrims Highway, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2045,1402,2982
+"885","1 Lincoln St, Boston, MA","61","0 Eagle Lane, Wrentham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3742,2868,4881
+"885","1 Lincoln St, Boston, MA","62","200 Pond Street, Avon","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2303,1476,3592
+"885","1 Lincoln St, Boston, MA","65","0 Glen Road, Reading","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1784,1123,2831
+"885","1 Lincoln St, Boston, MA","67","0 Nightingale Lane, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2989,2360,3784
+"885","1 Lincoln St, Boston, MA","68","100 Beacon Street, Back Bay East, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",685,434,1080
+"885","1 Lincoln St, Boston, MA","69","0 Burrill Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2715,2103,3503
+"885","1 Lincoln St, Boston, MA","77","0 The Mountain Road, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2447,1725,3469
+"885","1 Lincoln St, Boston, MA","78","0 John Street, Woburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2141,1292,3545
+"885","1 Lincoln St, Boston, MA","79","Massachusetts State House, Beacon Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",307,76,1234
+"885","1 Lincoln St, Boston, MA","80","0 Bussell Road, West Medford, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1508,999,2274
+"885","1 Lincoln St, Boston, MA","82","100 Private Alley 527, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",825,577,1178
+"885","1 Lincoln St, Boston, MA","83","0 Golden Drive, Winthrop","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1655,1237,2212
+"885","1 Lincoln St, Boston, MA","89","0 Cottage Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1862,1432,2420
+"885","1 Lincoln St, Boston, MA","92","Southeast Expressway, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1290,824,2017
+"885","1 Lincoln St, Boston, MA","94","300 Marlborough Street, Back Bay, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",962,650,1423
+"885","1 Lincoln St, Boston, MA","95","0 G Street, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",875,619,1236
+"885","1 Lincoln St, Boston, MA","97","300 Bishops Forest Drive, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2167,1692,2774
+"885","1 Lincoln St, Boston, MA","98","100 Suffolk Road, Chestnut Hill, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1841,1347,2515
+"885","1 Lincoln St, Boston, MA","102","0 Baldwin Street, North Easton, Easton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2886,2172,3834
+"885","1 Lincoln St, Boston, MA","105","100 Columbia Street, The Port, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1494,1109,2012
+"885","1 Lincoln St, Boston, MA","113","0 McKinley Road, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3478,2827,4277
+"885","1 Lincoln St, Boston, MA","114","600 Western Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2199,1633,2959
+"885","1 Lincoln St, Boston, MA","116","200 Eastern Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2755,2070,3665
+"885","1 Lincoln St, Boston, MA","118","0 County Way Extension, Beverly","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2521,1765,3600
+"885","1 Lincoln St, Boston, MA","120","0 Cherrywood Circle, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2701,1901,3836
+"885","1 Lincoln St, Boston, MA","126","200 Paris Way, Woburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1295,723,2316
+"885","1 Lincoln St, Boston, MA","127","200 Vinton Street, Melrose","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1746,1262,2414
+"885","1 Lincoln St, Boston, MA","128","100 Glen Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1589,1097,2300
+"885","1 Lincoln St, Boston, MA","129","0 Glendale Street, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1839,1380,2450
+"885","1 Lincoln St, Boston, MA","130","0 Cambria Street, Spring Hill, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1570,1163,2118
+"885","1 Lincoln St, Boston, MA","131","2000 Massachusetts Avenue, North Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1883,1446,2451
+"885","1 Lincoln St, Boston, MA","132","0 Townsend Road, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1889,1395,2557
+"885","1 Lincoln St, Boston, MA","133","0 Old Mill Road, West Concord, Concord","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3040,2331,3963
+"885","1 Lincoln St, Boston, MA","134","Yankee Division Highway, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1977,1464,2669
+"885","1 Lincoln St, Boston, MA","135","100 Orchard Street, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1691,1174,2434
+"885","1 Lincoln St, Boston, MA","136","200 Adams Avenue, West Newton, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1388,957,2013
+"885","1 Lincoln St, Boston, MA","137","0 Badger Road, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2538,1805,3568
+"885","1 Lincoln St, Boston, MA","138","0 Emmett Avenue, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2545,1925,3363
+"885","1 Lincoln St, Boston, MA","139","200 Main Street, Norfolk","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3340,2625,4248
+"885","1 Lincoln St, Boston, MA","140","100 Montclair Avenue, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1185,759,1849
+"885","1 Lincoln St, Boston, MA","141","0 Brooks Avenue, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1537,1022,2310
+"885","1 Lincoln St, Boston, MA","142","0 Althea Road, Randolph","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1957,1615,2371
+"885","1 Lincoln St, Boston, MA","143","0 Lantern Lane, Wrentham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3330,2661,4166
+"885","1 Lincoln St, Boston, MA","144","900 Massachusetts 139, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2186,1414,3379
+"885","1 Lincoln St, Boston, MA","147","0 Locust Street, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2891,1977,4226
+"885","1 Lincoln St, Boston, MA","148","0 Center Avenue, Middleborough Center, Middleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4498,3262,6201
+"885","1 Lincoln St, Boston, MA","150","Monastery Path, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1253,848,1849
+"885","1 Lincoln St, Boston, MA","151","300 Commercial Street, North End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",724,467,1121
+"885","1 Lincoln St, Boston, MA","152","400 Border Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1223,811,1843
+"885","1 Lincoln St, Boston, MA","153","200 Marginal Street, Jeffries Point, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",689,385,1232
+"885","1 Lincoln St, Boston, MA","154","700 Washington Street, Downtown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",294,100,860
+"885","1 Lincoln St, Boston, MA","155","100 West Springfield Street, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",785,534,1152
+"885","1 Lincoln St, Boston, MA","156","0 Academy Road, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1305,935,1819
+"885","1 Lincoln St, Boston, MA","157","100 Train Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1372,932,2018
+"885","1 Lincoln St, Boston, MA","158","100 Sycamore Street, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2299,1692,3122
+"885","1 Lincoln St, Boston, MA","159","0 Congress Avenue, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1221,782,1905
+"885","1 Lincoln St, Boston, MA","160","0 Franklin Place, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1449,983,2134
+"885","1 Lincoln St, Boston, MA","161","0 William Fairfield Drive, Wenham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2587,1979,3380
+"885","1 Lincoln St, Boston, MA","167","0 Miner Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1369,888,2108
+"885","1 Lincoln St, Boston, MA","170","0 Stowe Road, Sandwich","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4671,3864,5645
+"885","1 Lincoln St, Boston, MA","171","0 Andrew Road, Sagamore Beach, Bourne","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4840,3825,6122
+"885","1 Lincoln St, Boston, MA","172","100 Poquanticut Avenue, North Easton, Easton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3197,2482,4117
+"885","1 Lincoln St, Boston, MA","175","0 Hazelwood Avenue, Attleboro","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3075,2363,4000
+"885","1 Lincoln St, Boston, MA","182","0 The Greenway, Swampscott","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3240,2584,4061
+"885","1 Lincoln St, Boston, MA","183","0 Western Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2542,2006,3219
+"885","1 Lincoln St, Boston, MA","184","0 South Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2041,1465,2843
+"885","1 Lincoln St, Boston, MA","185","0 Paleologos Street, Peabody","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2052,1684,2499
+"885","1 Lincoln St, Boston, MA","197","100 Beach Street, Marlborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3094,2353,4068
+"885","1 Lincoln St, Boston, MA","200","100 Orange Street, Reading","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1734,1204,2496
+"885","1 Lincoln St, Boston, MA","201","0 Cleveland Street, Melrose","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1637,1196,2240
+"885","1 Lincoln St, Boston, MA","202","0 Girard Road, Winchester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1747,1239,2461
+"885","1 Lincoln St, Boston, MA","203","0 Hall Street, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1091,663,1792
+"885","1 Lincoln St, Boston, MA","204","0 Mohan Street, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1835,1360,2475
+"885","1 Lincoln St, Boston, MA","205","0 Cutler Street, Magoun Square, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1449,1033,2031
+"885","1 Lincoln St, Boston, MA","206","0 Claremon Street, Teele Square, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1923,1479,2499
+"885","1 Lincoln St, Boston, MA","207","0 Museum Way, East Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",873,531,1432
+"885","1 Lincoln St, Boston, MA","208","0 Jefferson Street, Wellington-Harrington, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1430,1030,1983
+"885","1 Lincoln St, Boston, MA","209","100 Magazine Street, Cambridgeport, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1219,808,1838
+"885","1 Lincoln St, Boston, MA","210","0 Cowperthwaite Garage, Cowperthwaite Street, Riverside, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1211,842,1741
+"885","1 Lincoln St, Boston, MA","211","0 Haskell Street, North Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2031,1536,2684
+"885","1 Lincoln St, Boston, MA","212","100 Claremont Avenue, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2310,1841,2897
+"885","1 Lincoln St, Boston, MA","213","0 Gorham Road, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1985,1470,2678
+"885","1 Lincoln St, Boston, MA","214","0 Valley View Road, Weston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2377,1834,3080
+"885","1 Lincoln St, Boston, MA","215","0 Rose Avenue, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1793,1309,2454
+"885","1 Lincoln St, Boston, MA","216","200 Cabot Street, Newtonville, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1488,1006,2200
+"885","1 Lincoln St, Boston, MA","217","0 Hartford Street, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2254,1518,3346
+"885","1 Lincoln St, Boston, MA","218","0 Church Street, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2844,2270,3562
+"885","1 Lincoln St, Boston, MA","220","100 Coolidge Street, North Brookline, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1533,1097,2141
+"885","1 Lincoln St, Boston, MA","221","0 Colbourne Crescent, Aspinwall Hill, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1854,1344,2556
+"885","1 Lincoln St, Boston, MA","222","0 Walnut Place, High Street Hill, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1886,1461,2434
+"885","1 Lincoln St, Boston, MA","223","0 Berkshire Road, Babson Park, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2234,1627,3067
+"885","1 Lincoln St, Boston, MA","224","0 Evans Lane, Norfolk","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3013,2381,3811
+"885","1 Lincoln St, Boston, MA","225","0 Longmeadow Drive, Westwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2420,1642,3565
+"885","1 Lincoln St, Boston, MA","226","0 Everett Avenue, Norwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2200,1770,2733
+"885","1 Lincoln St, Boston, MA","227","1100 Commonwealth Avenue, Allston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1482,1032,2127
+"885","1 Lincoln St, Boston, MA","228","200 Central Avenue, Milton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1473,1004,2160
+"885","1 Lincoln St, Boston, MA","229","100 Main Street, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1801,1249,2595
+"885","1 Lincoln St, Boston, MA","230","0 Saddle Row, Plainville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3363,2708,4175
+"885","1 Lincoln St, Boston, MA","232","0 Free Street, Hingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2467,1878,3240
+"885","1 Lincoln St, Boston, MA","237","Fall River Expressway, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2638,1918,3627
+"885","1 Lincoln St, Boston, MA","241","100 Colborne Road, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1474,1052,2064
+"885","1 Lincoln St, Boston, MA","242","0 Park Street, Charlestown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",820,550,1220
+"885","1 Lincoln St, Boston, MA","243","0 San Juan Street, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",714,467,1091
+"885","1 Lincoln St, Boston, MA","244","500 Columbus Avenue, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",886,630,1244
+"885","1 Lincoln St, Boston, MA","245","100 Saint Alphonsus Street, Mission Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1386,1013,1896
+"885","1 Lincoln St, Boston, MA","246","300 Mount Vernon Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",965,586,1588
+"885","1 Lincoln St, Boston, MA","247","0 Bowdoin Avenue, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1803,1259,2582
+"885","1 Lincoln St, Boston, MA","248","0 Evans Street, West Codman Hill / West Lower Mills, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1705,1171,2482
+"885","1 Lincoln St, Boston, MA","249","200 River Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1860,1147,3014
+"885","1 Lincoln St, Boston, MA","250","0 Gretter Road, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2122,1653,2723
+"885","1 Lincoln St, Boston, MA","251","0 Grotto Glen Road, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1612,1194,2175
+"885","1 Lincoln St, Boston, MA","252","0 Grove Street, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2867,2303,3567
+"885","1 Lincoln St, Boston, MA","253","0 Kimball Road, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1034,672,1589
+"885","1 Lincoln St, Boston, MA","254","1200 North Shore Road, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1588,1163,2167
+"885","1 Lincoln St, Boston, MA","255","Rosedale Avenue, Forest Hills / Woodbourne, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1929,1404,2649
+"885","1 Lincoln St, Boston, MA","261","0 6th Street, Arefth, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1235,843,1807
+"885","1 Lincoln St, Boston, MA","268","0 Congress Street, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2978,2455,3611
+"885","1 Lincoln St, Boston, MA","270","0 Sugar Hill Circle, Methuen","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2848,2041,3973
+"885","1 Lincoln St, Boston, MA","273","500 Trull Road, North Tewksbury, Tewksbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2746,2008,3753
+"885","1 Lincoln St, Boston, MA","274","0 Jensen Avenue, Chelmsford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3224,2270,4577
+"885","1 Lincoln St, Boston, MA","275","0 Theresa Road, Stoneham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1689,1225,2328
+"885","1 Lincoln St, Boston, MA","276","0 Howard Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1672,1201,2326
+"885","1 Lincoln St, Boston, MA","277","0 Edwin H Land Boulevard, East Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1038,682,1579
+"885","1 Lincoln St, Boston, MA","279","200 Seminole Avenue, Lakeview, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2195,1517,3174
+"885","1 Lincoln St, Boston, MA","280","0 Linder Terrace, Hunnewell Hill, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",983,640,1509
+"885","1 Lincoln St, Boston, MA","281","0 Meadowbrook Road, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1591,1128,2243
+"885","1 Lincoln St, Boston, MA","282","0 Pleasant View Avenue, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1803,1081,3006
+"885","1 Lincoln St, Boston, MA","283","0 Squibnocket Road, Franklin","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3980,2983,5308
+"885","1 Lincoln St, Boston, MA","285","100 Foster Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1536,1100,2143
+"885","1 Lincoln St, Boston, MA","286","0 Border Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",861,553,1339
+"885","1 Lincoln St, Boston, MA","287","0 Murray Way, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1019,653,1589
+"885","1 Lincoln St, Boston, MA","288","0 Wakullah Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1145,785,1669
+"885","1 Lincoln St, Boston, MA","289","500 Baker Street, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2320,1858,2895
+"885","1 Lincoln St, Boston, MA","290","100 Tremont Street, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",357,121,1053
+"885","1 Lincoln St, Boston, MA","293","0 Osgood Street, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2711,2319,3169
+"885","1 Lincoln St, Boston, MA","294","0 Chelsea Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",893,598,1331
+"885","1 Lincoln St, Boston, MA","296","0 Cleverly Court, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2047,1385,3025
+"885","1 Lincoln St, Boston, MA","297","100 Arlington Street, Bay Village, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",464,155,1383
+"885","1 Lincoln St, Boston, MA","298","100 Whitford Street, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2283,1669,3121
+"885","1 Lincoln St, Boston, MA","299","0 Round Hill Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1392,1034,1872
+"885","1 Lincoln St, Boston, MA","301","0 John J Brady Drive, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2608,1932,3519
+"885","1 Lincoln St, Boston, MA","302","0 Leon Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1109,788,1559
+"885","1 Lincoln St, Boston, MA","303","200 Old County Road, East Sandwich, Sandwich","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4685,3865,5678
+"885","1 Lincoln St, Boston, MA","306","0 Massachusetts 114, Peabody","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2257,1974,2580
+"885","1 Lincoln St, Boston, MA","309","0 Fernwood Drive, Westford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3710,2938,4683
+"885","1 Lincoln St, Boston, MA","310","0 Sharon Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1933,1435,2602
+"885","1 Lincoln St, Boston, MA","311","800 Monument Street, Concord","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2946,2291,3788
+"885","1 Lincoln St, Boston, MA","313","0 Pond Plain Road, Westwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2891,2100,3978
+"885","1 Lincoln St, Boston, MA","314","1000 Pleasant Street, East Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2394,1727,3317
+"885","1 Lincoln St, Boston, MA","316","Edgeworth, Charlestown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",859,554,1330
+"885","1 Lincoln St, Boston, MA","317","100 Bowen Street, D Street / West Broadway, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",785,510,1207
+"885","1 Lincoln St, Boston, MA","318","0 Stella Road, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2085,1527,2845
+"885","1 Lincoln St, Boston, MA","320","0 Pleasant Street, North Brookline, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1648,1258,2157
+"885","1 Lincoln St, Boston, MA","323","Amvets Memorial Highway, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3809,3117,4653
+"885","1 Lincoln St, Boston, MA","327","0 Labelle Street, Marlborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2988,2323,3842
+"885","1 Lincoln St, Boston, MA","328","0 Clinton Street, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1575,1096,2262
+"885","1 Lincoln St, Boston, MA","329","0 Tyler Street, Ward Two, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1547,1124,2128
+"885","1 Lincoln St, Boston, MA","330","100 Vassal Lane, West Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1687,1194,2383
+"885","1 Lincoln St, Boston, MA","331","0 Seaport Drive, Marina Bay, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1163,766,1765
+"885","1 Lincoln St, Boston, MA","332","100 Wolf Pond Road, Kingston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3782,2936,4871
+"885","1 Lincoln St, Boston, MA","333","0 Huntington Avenue, Prudential / St. Botolph, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",629,224,1763
+"885","1 Lincoln St, Boston, MA","334","0 Westbourne Street, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2481,1889,3257
+"885","1 Lincoln St, Boston, MA","335","100 Everett Avenue, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1003,641,1568
+"885","1 Lincoln St, Boston, MA","337","100 Svenson Avenue, Broadmeadow Brook, Worcester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3858,2825,5266
+"885","1 Lincoln St, Boston, MA","339","0 Autumn Lane, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2886,2155,3864
+"885","1 Lincoln St, Boston, MA","340","0 Bent Avenue, Cochituate, Wayland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1909,1291,2822
+"885","1 Lincoln St, Boston, MA","341","0 Fountain Avenue, East Somerville, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1206,820,1772
+"885","1 Lincoln St, Boston, MA","342","0 Payson Street, Vernon Hill, Worcester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3900,2854,5329
+"885","1 Lincoln St, Boston, MA","345","0 West Street, Auburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4282,3170,5783
+"885","1 Lincoln St, Boston, MA","346","0 Meadowbrook Road, Grafton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3494,2454,4973
+"885","1 Lincoln St, Boston, MA","348","100 Gulf Street, Shrewsbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3378,2692,4238
+"885","1 Lincoln St, Boston, MA","349","0 Smith Parkway, Westborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3655,2968,4499
+"885","1 Lincoln St, Boston, MA","350","0 Morey Way, Milford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3439,2746,4306
+"885","1 Lincoln St, Boston, MA","352","200 Prospect Street, South Easton, Easton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3314,2584,4248
+"885","1 Lincoln St, Boston, MA","353","100 Burt Street, Norton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3573,2770,4607
+"885","1 Lincoln St, Boston, MA","357","500 County Street, Taunton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3316,2534,4337
+"885","1 Lincoln St, Boston, MA","359","100 Colonial Road, North Attleborough Center, North Attleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2954,2338,3730
+"885","1 Lincoln St, Boston, MA","360","0 Landsdowne Street, MIT, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1310,956,1794
+"885","1 Lincoln St, Boston, MA","361","0 Hayes Street, Riverside, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1296,885,1896
+"885","1 Lincoln St, Boston, MA","362","0 Roberts Road, Mid-Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1458,1040,2042
+"885","1 Lincoln St, Boston, MA","363","0 Channing Street, West Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1340,947,1895
+"885","1 Lincoln St, Boston, MA","364","0 Richard Avenue, North Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2035,1471,2814
+"885","1 Lincoln St, Boston, MA","365","100 Palmer Street, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1929,1314,2830
+"885","1 Lincoln St, Boston, MA","366","0 Eastern Avenue, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2384,1786,3181
+"885","1 Lincoln St, Boston, MA","367","0 Pleasant Street, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2618,2011,3407
+"885","1 Lincoln St, Boston, MA","368","0 Hayden Avenue, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2439,1795,3314
+"885","1 Lincoln St, Boston, MA","369","200 Waltham Street, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2511,1876,3360
+"885","1 Lincoln St, Boston, MA","370","100 Old Billerica Road, Bedford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2464,1800,3371
+"885","1 Lincoln St, Boston, MA","372","0 Clara Barton Road, North Oxford, Oxford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4979,3861,6420
+"885","1 Lincoln St, Boston, MA","374","0 Connector Road, Westborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2976,2159,4100
+"885","1 Lincoln St, Boston, MA","375","0 Mason Street, Attleboro","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3179,2467,4094
+"885","1 Lincoln St, Boston, MA","377","0 Middlesex Street, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3667,3072,4376
+"885","1 Lincoln St, Boston, MA","378","Gated Fire Lane, Westport","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3964,3071,5115
+"885","1 Lincoln St, Boston, MA","380","0 3 Ponds Road, Wayland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2588,2089,3206
+"885","1 Lincoln St, Boston, MA","385","0 Sandy Pond Road, Lincoln","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2619,1930,3553
+"885","1 Lincoln St, Boston, MA","386","800 Sudbury Road, Concord","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3022,2328,3922
+"885","1 Lincoln St, Boston, MA","387","0 Hammond Street, Acton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3664,2757,4868
+"885","1 Lincoln St, Boston, MA","388","0 Sandy Drive, Acton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3241,2482,4231
+"885","1 Lincoln St, Boston, MA","389","0 Captain Forbush Lane, Acton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3297,2670,4070
+"885","1 Lincoln St, Boston, MA","391","0 Colonial Way, Weston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1511,1033,2209
+"885","1 Lincoln St, Boston, MA","400","400 Slosberg Music Center, South Street, Brandeis, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1692,1214,2357
+"885","1 Lincoln St, Boston, MA","401","Cottage Street, North Waltham, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2038,1557,2666
+"885","1 Lincoln St, Boston, MA","402","100 Edward Road, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1469,978,2205
+"885","1 Lincoln St, Boston, MA","403","0 Rossmere Street, Newtonville, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1160,759,1771
+"885","1 Lincoln St, Boston, MA","404","200 Herrick Road, Newton Centre, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1918,1403,2620
+"885","1 Lincoln St, Boston, MA","405","Upper Falls Greenway, Newton Highlands, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1956,1178,3247
+"885","1 Lincoln St, Boston, MA","406","100 Oak Street, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1894,1268,2827
+"885","1 Lincoln St, Boston, MA","407","0 Riverbend Drive, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2839,2218,3632
+"885","1 Lincoln St, Boston, MA","408","0 Dudley Road, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3093,2681,3567
+"885","1 Lincoln St, Boston, MA","409","0 Chouteau Avenue, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2059,1420,2984
+"885","1 Lincoln St, Boston, MA","412","100 Washington Street, North Easton, Easton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2783,2090,3705
+"885","1 Lincoln St, Boston, MA","413","200 Marion Street, Central-Maverick Square / Paris Street, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1120,699,1792
+"885","1 Lincoln St, Boston, MA","415","0 Pickwick Road, Marblehead","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3157,2633,3784
+"885","1 Lincoln St, Boston, MA","417","Ash Avenue, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2413,2101,2770
+"885","1 Lincoln St, Boston, MA","418","0 Cauldron Court, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2756,2152,3528
+"885","1 Lincoln St, Boston, MA","419","Poplar Avenue, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2190,1694,2830
+"885","1 Lincoln St, Boston, MA","420","0 Warren Avenue, Saugus","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2224,1451,3408
+"885","1 Lincoln St, Boston, MA","424","200 Warren Street, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2080,1592,2716
+"885","1 Lincoln St, Boston, MA","425","200 Bolton Street, D Street / West Broadway, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",696,473,1023
+"885","1 Lincoln St, Boston, MA","426","0 Ledgewood Road, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1824,1301,2556
+"885","1 Lincoln St, Boston, MA","427","400 Charles River Street, Needham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2398,1775,3238
+"885","1 Lincoln St, Boston, MA","428","0 Dukes Road, Wellesley Hills, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2177,1624,2918
+"885","1 Lincoln St, Boston, MA","430","300 Central Street, Saugus","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1691,1084,2636
+"885","1 Lincoln St, Boston, MA","431","0 East Huckleberry Road, Lynnfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2010,1333,3030
+"885","1 Lincoln St, Boston, MA","432","0 Irving Street, Peabody","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2252,1593,3182
+"885","1 Lincoln St, Boston, MA","433","0 Sherwood Avenue, Danvers","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2420,1741,3362
+"885","1 Lincoln St, Boston, MA","435","300 Harrison Avenue, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",315,79,1249
+"885","1 Lincoln St, Boston, MA","440","0 Ridge Road, Foxborough, Foxborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2752,2027,3735
+"885","1 Lincoln St, Boston, MA","441","0 Currier Farm Road, Westwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1990,1396,2835
+"885","1 Lincoln St, Boston, MA","444","0 Cedarcrest Road, Canton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2170,1528,3080
+"885","1 Lincoln St, Boston, MA","445","1400 Canton Avenue, Milton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1699,1169,2468
+"885","1 Lincoln St, Boston, MA","446","0 Colby Road, North Quincy, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1257,811,1947
+"885","1 Lincoln St, Boston, MA","447","0 Murphy Memorial Drive, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1702,1213,2386
+"885","1 Lincoln St, Boston, MA","448","200 Ricciuti Drive, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1266,799,2004
+"885","1 Lincoln St, Boston, MA","457","0 Sagamore Drive, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2082,1545,2805
+"885","1 Lincoln St, Boston, MA","459","0 Farm Road, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1658,1071,2564
+"885","1 Lincoln St, Boston, MA","460","0 Connell Street, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1691,1165,2452
+"885","1 Lincoln St, Boston, MA","461","200 King Hill Road, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1728,1116,2675
+"885","1 Lincoln St, Boston, MA","462","Fall River Expressway, Randolph","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1701,1138,2542
+"885","1 Lincoln St, Boston, MA","463","0 Alfred Terrace, Randolph","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2350,1788,3088
+"885","1 Lincoln St, Boston, MA","464","100 Swan Avenue, South Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1919,1418,2596
+"885","1 Lincoln St, Boston, MA","465","100 Wingate Road, East Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2277,1580,3279
+"885","1 Lincoln St, Boston, MA","473","0 Alderwood Road, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2818,2132,3724
+"885","1 Lincoln St, Boston, MA","475","Glacier Lane, Hingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2984,2249,3959
+"885","1 Lincoln St, Boston, MA","476","0 Legion Drive, Hanover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2522,1991,3193
+"885","1 Lincoln St, Boston, MA","477","0 Bearce Lane, Scituate","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3554,2950,4280
+"885","1 Lincoln St, Boston, MA","478","100 Centre Avenue, Abington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2405,1957,2955
+"885","1 Lincoln St, Boston, MA","482","0 Hidden Valley Road, Marshfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3039,2285,4041
+"885","1 Lincoln St, Boston, MA","486","100 South Meadow Road, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3934,3018,5127
+"885","1 Lincoln St, Boston, MA","487","500 Main Street, Medford Street / The Neck, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",812,485,1358
+"885","1 Lincoln St, Boston, MA","488","Snake Hill Road, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4114,3165,5347
+"885","1 Lincoln St, Boston, MA","490","0 Shortbrook Avenue, Middleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5123,3633,7222
+"885","1 Lincoln St, Boston, MA","491","0 Haverford Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1471,1059,2041
+"885","1 Lincoln St, Boston, MA","492","0 Princeton Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1126,768,1650
+"885","1 Lincoln St, Boston, MA","493","Allston Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1630,1182,2246
+"885","1 Lincoln St, Boston, MA","494","0 Glenville Avenue, Allston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1329,920,1918
+"885","1 Lincoln St, Boston, MA","495","300 Brookline Avenue, Medical Center Area, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1392,1021,1896
+"885","1 Lincoln St, Boston, MA","496","0 Newbury Street, Back Bay East, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",783,509,1202
+"885","1 Lincoln St, Boston, MA","497","0 Blossom Street, West End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",704,418,1183
+"885","1 Lincoln St, Boston, MA","498","0 Causeway Street, West End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",592,326,1072
+"885","1 Lincoln St, Boston, MA","499","0 Elm Street, Charlestown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1038,762,1413
+"885","1 Lincoln St, Boston, MA","500","Tobin Memorial Bridge, Charlestown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",890,585,1353
+"885","1 Lincoln St, Boston, MA","501","0 P Street, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",772,534,1115
+"885","1 Lincoln St, Boston, MA","502","600 East Fifth Street, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",784,549,1118
+"885","1 Lincoln St, Boston, MA","503","0 Eustis Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",768,477,1235
+"885","1 Lincoln St, Boston, MA","504","0 Francis Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1567,1161,2114
+"885","1 Lincoln St, Boston, MA","505","100 Harold Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1470,1100,1964
+"885","1 Lincoln St, Boston, MA","506","0 Schuyler Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1607,1226,2105
+"885","1 Lincoln St, Boston, MA","507","0 Burrell Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1149,801,1646
+"885","1 Lincoln St, Boston, MA","508","0 Stoughton Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1197,762,1879
+"885","1 Lincoln St, Boston, MA","509","0 Homes Avenue, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1643,1062,2541
+"885","1 Lincoln St, Boston, MA","510","0 Dakota Street, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1672,1177,2374
+"885","1 Lincoln St, Boston, MA","511","0 Fairmount Street, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1513,1014,2255
+"885","1 Lincoln St, Boston, MA","512","1000 Adams Street, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1291,846,1969
+"885","1 Lincoln St, Boston, MA","521","0 Hosmer Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1982,1286,3053
+"885","1 Lincoln St, Boston, MA","522","100 Durnell Avenue, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2360,1821,3057
+"885","1 Lincoln St, Boston, MA","523","0 Woodland Road, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1952,1549,2458
+"885","1 Lincoln St, Boston, MA","524","100 Laurie Avenue, Upper Washington / Spring Street, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2574,2046,3238
+"885","1 Lincoln St, Boston, MA","525","0 Parkson Street, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2040,1469,2831
+"885","1 Lincoln St, Boston, MA","526","0 Orange Street, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1265,843,1896
+"885","1 Lincoln St, Boston, MA","527","200 Beach Street, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1345,839,2155
+"885","1 Lincoln St, Boston, MA","528","0 Short Street, Winthrop","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1502,1102,2045
+"885","1 Lincoln St, Boston, MA","529","0 Circuit Drive, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1650,1173,2319
+"885","1 Lincoln St, Boston, MA","530","0 Dry Dock Avenue, Seaport District, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",541,286,1020
+"885","1 Lincoln St, Boston, MA","532","1100 Livingston Street, North Tewksbury, Tewksbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2655,1932,3646
+"885","1 Lincoln St, Boston, MA","536","0 Marriott Place, Billerica","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3248,2240,4708
+"885","1 Lincoln St, Boston, MA","537","0 Talbot Avenue, North Billerica, Billerica","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3244,2231,4716
+"885","1 Lincoln St, Boston, MA","540","Charles River Esplanade, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",876,569,1346
+"885","1 Lincoln St, Boston, MA","544","0 Fid Kennedy Avenue, Seaport District, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",686,373,1260
+"885","1 Lincoln St, Boston, MA","549","0 Boston Street, Prospect Hill, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1389,974,1979
+"885","1 Lincoln St, Boston, MA","554","0 Everett Circle, Hopkinton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2916,2070,4106
+"885","1 Lincoln St, Boston, MA","561","100 Wildwood Street, Wilmington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1881,1258,2810
+"885","1 Lincoln St, Boston, MA","574","800 Falmouth Road, Hyannis, Barnstable","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5052,4370,5840
+"885","1 Lincoln St, Boston, MA","575","0 Lakewood Drive, Centerville, Barnstable","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5037,4207,6030
+"885","1 Lincoln St, Boston, MA","577","0 Wheeler Road, Marstons Mills, Barnstable","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4859,4045,5836
+"885","1 Lincoln St, Boston, MA","579","0 Highland Avenue, Buzzards Bay, Bourne","4/3/2017 - 5/27/2017, Weekdays, PM Peak",6167,4884,7785
+"885","1 Lincoln St, Boston, MA","581","0 Carter Road, Woburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1594,1023,2483
+"885","1 Lincoln St, Boston, MA","584","0 Mill Road, Melrose","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1941,1383,2723
+"885","1 Lincoln St, Boston, MA","585","0 High Street, Stoneham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1573,1192,2074
+"885","1 Lincoln St, Boston, MA","586","0 Bates Road, Winchester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1518,994,2317
+"885","1 Lincoln St, Boston, MA","587","100 Rivers Edge Drive, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1299,869,1940
+"885","1 Lincoln St, Boston, MA","588","0 Lewis Street, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1200,738,1948
+"885","1 Lincoln St, Boston, MA","589","0 Clayton Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1963,1545,2493
+"885","1 Lincoln St, Boston, MA","590","100 Kennedy Drive, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1637,1025,2614
+"885","1 Lincoln St, Boston, MA","602","400 William S Canning Boulevard, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3834,3230,4550
+"885","1 Lincoln St, Boston, MA","604","100 Alden Street, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3700,3103,4411
+"885","1 Lincoln St, Boston, MA","605","800 Washington Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2413,1836,3171
+"885","1 Lincoln St, Boston, MA","606","100 Windsor Street, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3730,3082,4512
+"885","1 Lincoln St, Boston, MA","613","0 Canal Street, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3230,2520,4138
+"885","1 Lincoln St, Boston, MA","615","0 Bowler Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2377,1823,3099
+"885","1 Lincoln St, Boston, MA","617","700 Lynnway, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2078,1454,2968
+"885","1 Lincoln St, Boston, MA","626","0 McDewell Avenue, Danvers","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2521,1777,3575
+"885","1 Lincoln St, Boston, MA","629","0 Safford Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2294,1712,3073
+"885","1 Lincoln St, Boston, MA","630","0 Johnson Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2159,1609,2896
+"885","1 Lincoln St, Boston, MA","631","0 Central Street, Saugus","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1874,1245,2818
+"885","1 Lincoln St, Boston, MA","632","0 Lindsay Terrace, Saugus","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1846,1204,2829
+"885","1 Lincoln St, Boston, MA","633","0 Russet Lane, Lynnfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1893,1316,2721
+"885","1 Lincoln St, Boston, MA","634","Independence Greenway, Peabody","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2279,1588,3269
+"885","1 Lincoln St, Boston, MA","636","0 Spring Road, Nahant","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2520,1922,3303
+"885","1 Lincoln St, Boston, MA","637","100 Shelton Road, Swampscott","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2820,2253,3528
+"885","1 Lincoln St, Boston, MA","638","0 Leedsville Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1428,966,2110
+"885","1 Lincoln St, Boston, MA","639","0 Sylvan Street, Danvers","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2267,1539,3339
+"885","1 Lincoln St, Boston, MA","640","0 Taryn Drive, Danvers","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2794,2449,3186
+"885","1 Lincoln St, Boston, MA","641","0 Zaloga Way, Middleton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2364,2088,2676
+"885","1 Lincoln St, Boston, MA","644","0 Dunham Road, Beverly","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2434,1826,3243
+"885","1 Lincoln St, Boston, MA","665","0 Welgate Circle, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1492,975,2281
+"885","1 Lincoln St, Boston, MA","668","0 Shipyard Lane, Pocasset, Bourne","4/3/2017 - 5/27/2017, Weekdays, PM Peak",6421,5125,8043
+"885","1 Lincoln St, Boston, MA","669","100 Curley Boulevard, North Falmouth, Falmouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",6702,5402,8314
+"885","1 Lincoln St, Boston, MA","671","0 Scranton Avenue, Falmouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",7041,5688,8715
+"885","1 Lincoln St, Boston, MA","673","0 Stonewall Lane, Falmouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",7280,5970,8877
+"885","1 Lincoln St, Boston, MA","677","200 Foundry Street, South Easton, Easton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3133,2397,4093
+"885","1 Lincoln St, Boston, MA","678","0 Chauncy Street, Mansfield Center, Mansfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3205,850,12073
+"885","1 Lincoln St, Boston, MA","683","0 Sagamore Road, East Taunton, Taunton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3202,2547,4024
+"885","1 Lincoln St, Boston, MA","684","0 North Main Street, Berkley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3561,2681,4729
+"885","1 Lincoln St, Boston, MA","685","200 Landry Avenue, North Attleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2976,2279,3885
+"885","1 Lincoln St, Boston, MA","686","200 Hickory Road, North Attleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3198,2516,4064
+"885","1 Lincoln St, Boston, MA","687","0 Fenton Avenue, Attleboro","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3363,2641,4281
+"885","1 Lincoln St, Boston, MA","691","100 Stoughton Street, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2941,2150,4021
+"885","1 Lincoln St, Boston, MA","692","600 Webster Street, Needham Heights, Needham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2117,1558,2875
+"885","1 Lincoln St, Boston, MA","695","0 West Hollow, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2313,1659,3223
+"885","1 Lincoln St, Boston, MA","696","0 Lansbury Lane, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2695,1867,3889
+"885","1 Lincoln St, Boston, MA","697","0 Crestwood Drive, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2464,1701,3568
+"885","1 Lincoln St, Boston, MA","699","0 Kennedy Drive, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2278,1568,3309
+"885","1 Lincoln St, Boston, MA","707","100 Bellevue Road, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1251,843,1854
+"885","1 Lincoln St, Boston, MA","709","0 Newbury Avenue, North Quincy, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1195,779,1831
+"885","1 Lincoln St, Boston, MA","710","0 Beal Street, Hingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2704,2075,3522
+"885","1 Lincoln St, Boston, MA","711","0 Rock View Way, Rockland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2394,1695,3380
+"885","1 Lincoln St, Boston, MA","713","0 Foster Street, Coolidge Corner South Side, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1761,1351,2295
+"885","1 Lincoln St, Boston, MA","714","0 Bates Way, Hanover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2651,1887,3723
+"885","1 Lincoln St, Boston, MA","715","700 Grove Street, Norwell","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2499,1792,3484
+"885","1 Lincoln St, Boston, MA","718","0 Otis Street, East Somerville, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1318,893,1943
+"885","1 Lincoln St, Boston, MA","720","Union Bridge Road, Duxbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3430,2659,4424
+"885","1 Lincoln St, Boston, MA","721","200 West Street, Duxbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3298,2523,4310
+"885","1 Lincoln St, Boston, MA","722","0 Pilgrim Road, North Pembroke, Pembroke","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2980,2212,4013
+"885","1 Lincoln St, Boston, MA","725","D W Field Parkway, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2663,2124,3337
+"885","1 Lincoln St, Boston, MA","726","100 Candy Lane, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2528,1763,3623
+"885","1 Lincoln St, Boston, MA","729","0 Broadmeadow Lane, Abington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2199,1744,2772
+"885","1 Lincoln St, Boston, MA","738","0 Jennifer Circle, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4909,3747,6429
+"885","1 Lincoln St, Boston, MA","739","0 Tinson Road, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1731,1124,2664
+"885","1 Lincoln St, Boston, MA","740","0 Brierwood Road, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1424,913,2218
+"885","1 Lincoln St, Boston, MA","741","300 North Street, North Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2383,1756,3232
+"885","1 Lincoln St, Boston, MA","742","200 Sohier Street, Cohasset","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3533,2751,4535
+"885","1 Lincoln St, Boston, MA","745","0 Dow Street, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3325,2838,3894
+"885","1 Lincoln St, Boston, MA","746","100 Arthur Street, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2706,2210,3311
+"885","1 Lincoln St, Boston, MA","747","0 Crestwood Drive, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2252,1557,3255
+"885","1 Lincoln St, Boston, MA","748","0 Michael Road, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2187,1533,3119
+"885","1 Lincoln St, Boston, MA","749","0 Fox Hill Road, Ashland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2618,1817,3771
+"885","1 Lincoln St, Boston, MA","750","0 Washington Street, Sherborn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3367,2508,4519
+"885","1 Lincoln St, Boston, MA","756","0 Taunton Street, Ward Two, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1568,1166,2106
+"885","1 Lincoln St, Boston, MA","757","100 Portland Street, The Port, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1261,895,1776
+"885","1 Lincoln St, Boston, MA","758","0 Antrim Street, Mid-Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1567,1144,2144
+"885","1 Lincoln St, Boston, MA","759","0 Vail Court, Mid-Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1348,917,1981
+"885","1 Lincoln St, Boston, MA","760","Fairchild Building, MIT, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1141,767,1695
+"885","1 Lincoln St, Boston, MA","761","0 Oxford Street, Agassiz, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1670,1197,2329
+"885","1 Lincoln St, Boston, MA","762","0 Dana Place, Mid-Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1445,1031,2023
+"885","1 Lincoln St, Boston, MA","763","100 Brattle Street, West Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1330,942,1877
+"885","1 Lincoln St, Boston, MA","764","600 Huron Avenue, Strawberry Hill, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1636,1167,2292
+"885","1 Lincoln St, Boston, MA","765","400 Westfield Street, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2349,1617,3411
+"885","1 Lincoln St, Boston, MA","766","0 Gatewood Drive, Needham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2359,1769,3144
+"885","1 Lincoln St, Boston, MA","767","100 Webster Street, Needham Heights, Needham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1922,1321,2795
+"885","1 Lincoln St, Boston, MA","768","0 Pickerel Terrace, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2375,1749,3223
+"885","1 Lincoln St, Boston, MA","769","0 Tappan Road, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2575,1877,3531
+"885","1 Lincoln St, Boston, MA","773","0 Sherman Street, Neighborhood Nine, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1837,1360,2481
+"885","1 Lincoln St, Boston, MA","774","0 Jackson Street, North Cambridge, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2117,1522,2944
+"885","1 Lincoln St, Boston, MA","775","0 Milton Street, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2260,1619,3154
+"885","1 Lincoln St, Boston, MA","776","0 Gray Street, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2295,1678,3138
+"885","1 Lincoln St, Boston, MA","777","100 Claflin Street, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2312,1749,3055
+"885","1 Lincoln St, Boston, MA","778","0 Foster Road, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1804,1385,2348
+"885","1 Lincoln St, Boston, MA","779","0 Woodfall Road, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2301,1724,3069
+"885","1 Lincoln St, Boston, MA","780","0 Fern Trail, Sudbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3111,2428,3984
+"885","1 Lincoln St, Boston, MA","781","200 Old Lancaster Road, Sudbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2809,2081,3790
+"885","1 Lincoln St, Boston, MA","782","0 Mill Street, Foxborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2945,2172,3992
+"885","1 Lincoln St, Boston, MA","783","200 Cocasset Street, Foxborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2675,1861,3844
+"885","1 Lincoln St, Boston, MA","784","0 Sandy Valley Drive, Walpole","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2953,2151,4053
+"885","1 Lincoln St, Boston, MA","786","0 Richdale Avenue, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1554,1126,2142
+"885","1 Lincoln St, Boston, MA","787","700 University Avenue, Norwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2248,1593,3172
+"885","1 Lincoln St, Boston, MA","788","300 Washington Street, Norwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2179,1426,3327
+"885","1 Lincoln St, Boston, MA","789","200 Carnegie Row, Norwood","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2347,1687,3263
+"885","1 Lincoln St, Boston, MA","790","100 Walnut Street, Canton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2729,1869,3983
+"885","1 Lincoln St, Boston, MA","791","500 Turnpike Street, Canton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2171,1438,3276
+"885","1 Lincoln St, Boston, MA","792","0 Woodside Drive, Milton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1390,970,1990
+"885","1 Lincoln St, Boston, MA","794","0 Upland Road, Burlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2684,1786,4032
+"885","1 Lincoln St, Boston, MA","795","100 Hayden Rowe Street, Hopkinton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3209,2506,4108
+"885","1 Lincoln St, Boston, MA","796","100 O'Malley Road, Marlborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2832,2253,3558
+"885","1 Lincoln St, Boston, MA","800","0 Harvard Road, Littleton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3415,2601,4482
+"885","1 Lincoln St, Boston, MA","803","0 Deer Run, Wayland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2410,1755,3308
+"885","1 Lincoln St, Boston, MA","804","Glen Road, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1876,1372,2564
+"885","1 Lincoln St, Boston, MA","805","0 Howard Street, Banks Square, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1765,1259,2473
+"885","1 Lincoln St, Boston, MA","806","0 Boland Street, South Side, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1733,1288,2330
+"885","1 Lincoln St, Boston, MA","807","100 Grove Street, Bleachery, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1820,1349,2454
+"885","1 Lincoln St, Boston, MA","808","0 Candace Avenue, Warrendale, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1902,1410,2564
+"885","1 Lincoln St, Boston, MA","809","200 Bellevue Road, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1665,1179,2350
+"885","1 Lincoln St, Boston, MA","810","100 North Beacon Street, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1385,939,2040
+"885","1 Lincoln St, Boston, MA","811","300 Watertown Street, Nonantum, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1334,941,1890
+"885","1 Lincoln St, Boston, MA","812","0 Burr Road, Newton Centre, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1676,1223,2294
+"885","1 Lincoln St, Boston, MA","813","0 Spear Street, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1890,1347,2650
+"885","1 Lincoln St, Boston, MA","814","0 Hawthorne Street, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1743,1308,2321
+"885","1 Lincoln St, Boston, MA","815","0 Upton Drive, Wilmington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2072,1407,3050
+"885","1 Lincoln St, Boston, MA","816","0 Keans Road, Burlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2170,1566,3006
+"885","1 Lincoln St, Boston, MA","817","0 Burlington Mall Road, Burlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2319,1736,3097
+"885","1 Lincoln St, Boston, MA","818","100 New Boston Street, Woburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1842,1227,2764
+"885","1 Lincoln St, Boston, MA","819","0 Maple Ridge Road, Reading","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1728,1150,2594
+"885","1 Lincoln St, Boston, MA","820","0 Pasture Road, Reading","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2226,1555,3186
+"885","1 Lincoln St, Boston, MA","821","0 Byron Street, Wakefield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1732,1224,2449
+"885","1 Lincoln St, Boston, MA","822","0 Eunice Circle, Wakefield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1938,1372,2737
+"885","1 Lincoln St, Boston, MA","823","0 Boston Rock Road, Melrose","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1796,1330,2424
+"885","1 Lincoln St, Boston, MA","824","200 Nahanton Street, Oak Hill, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2069,1177,3636
+"885","1 Lincoln St, Boston, MA","825","1400 Commonwealth Avenue, West Newton, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1619,1137,2304
+"885","1 Lincoln St, Boston, MA","826","0 Abbott Avenue, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1603,1144,2245
+"885","1 Lincoln St, Boston, MA","827","0 Randlett Park, West Newton, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1232,822,1845
+"885","1 Lincoln St, Boston, MA","828","100 Bacon Street, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2666,1893,3754
+"885","1 Lincoln St, Boston, MA","829","100 South Main Street, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2742,2051,3664
+"885","1 Lincoln St, Boston, MA","830","C Street, Natick","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1990,1359,2912
+"885","1 Lincoln St, Boston, MA","831","0 Woodland Road, Stoneham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1401,913,2148
+"885","1 Lincoln St, Boston, MA","832","0 Rodgers Road, Stoneham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1668,1100,2527
+"885","1 Lincoln St, Boston, MA","833","300 Highland Avenue, Winchester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1660,1128,2441
+"885","1 Lincoln St, Boston, MA","834","0 Orchard Street, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1622,1108,2373
+"885","1 Lincoln St, Boston, MA","835","0 Marston Street, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1479,971,2251
+"885","1 Lincoln St, Boston, MA","836","100 Central Avenue, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1220,757,1966
+"885","1 Lincoln St, Boston, MA","837","0 Mc Cormack Avenue, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1225,783,1916
+"885","1 Lincoln St, Boston, MA","838","100 West Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1528,1038,2249
+"885","1 Lincoln St, Boston, MA","839","0 Webber Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2019,1471,2769
+"885","1 Lincoln St, Boston, MA","840","0 Hamilton Road, West Somerville, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1782,1216,2610
+"885","1 Lincoln St, Boston, MA","843","0 Upham Street, Highlands, Lowell","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3138,2222,4429
+"885","1 Lincoln St, Boston, MA","844","1300 Lawrence Street, South Lowell, Lowell","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3019,2145,4247
+"885","1 Lincoln St, Boston, MA","846","0 Beacham Street, Everett","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1390,982,1967
+"885","1 Lincoln St, Boston, MA","847","100 Sycamore Street, Winter Hill, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1308,917,1865
+"885","1 Lincoln St, Boston, MA","848","0 Wallace Street, Tufts, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1770,1283,2441
+"885","1 Lincoln St, Boston, MA","851","100 Groton Road, North Chelmsford, Chelmsford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3605,2825,4600
+"885","1 Lincoln St, Boston, MA","854","200 Miller Street, Middleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4847,3397,6915
+"885","1 Lincoln St, Boston, MA","855","Green Street, Middleborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4281,3102,5908
+"885","1 Lincoln St, Boston, MA","856","400 Commonwealth Avenue, Back Bay, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",776,321,1870
+"885","1 Lincoln St, Boston, MA","857","100 Norway Street, Fenway/Kenmore, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1250,858,1820
+"885","1 Lincoln St, Boston, MA","859","0 Whispering Pines Path, West Wareham, Wareham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5384,3851,7526
+"885","1 Lincoln St, Boston, MA","861","0 South Waverly Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",839,492,1428
+"885","1 Lincoln St, Boston, MA","862","0 Atkins Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",848,520,1380
+"885","1 Lincoln St, Boston, MA","863","0 Strathmore Road, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1699,1223,2358
+"885","1 Lincoln St, Boston, MA","864","0 Dustin Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1201,824,1748
+"885","1 Lincoln St, Boston, MA","865","0 Bellvista Road, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1542,1076,2207
+"885","1 Lincoln St, Boston, MA","866","0 Braintree Street, Allston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",759,441,1304
+"885","1 Lincoln St, Boston, MA","867","0 Barry Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1488,1015,2179
+"885","1 Lincoln St, Boston, MA","868","100 Whitfield Street, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2028,1480,2777
+"885","1 Lincoln St, Boston, MA","869","0 Wales Street, Roxbury, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1963,1496,2574
+"885","1 Lincoln St, Boston, MA","870","0 Willowwood Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1786,1273,2505
+"885","1 Lincoln St, Boston, MA","871","0 Chipman Street, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1839,1293,2615
+"885","1 Lincoln St, Boston, MA","872","Southeast Expressway, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",880,531,1456
+"885","1 Lincoln St, Boston, MA","873","100 Manchester Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1611,1136,2282
+"885","1 Lincoln St, Boston, MA","874","0 Outlook Road, Wellington Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2142,1422,3224
+"885","1 Lincoln St, Boston, MA","875","200 Hyde Park Avenue, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2004,1416,2835
+"885","1 Lincoln St, Boston, MA","876","100 Neponset Avenue, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1962,1432,2688
+"885","1 Lincoln St, Boston, MA","877","0 Eliot Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1913,1498,2442
+"885","1 Lincoln St, Boston, MA","878","200 Public Alley 432, Back Bay, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",646,249,1671
+"885","1 Lincoln St, Boston, MA","879","0 River Street Place, Beacon Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",673,353,1283
+"885","1 Lincoln St, Boston, MA","880","100 Charles Street, Beacon Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",771,476,1247
+"885","1 Lincoln St, Boston, MA","881","0 Stillman Street, North End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",561,326,962
+"885","1 Lincoln St, Boston, MA","882","200 Hanover Street, North End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",579,330,1015
+"885","1 Lincoln St, Boston, MA","883","200 Seaport Boulevard, Seaport District, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",405,195,838
+"885","1 Lincoln St, Boston, MA","884","South Boston Bypass, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",327,117,912
+"885","1 Lincoln St, Boston, MA","886","0 Malden Street, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",432,185,1008
+"885","1 Lincoln St, Boston, MA","887","0 Mount Pleasant Terrace, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1004,671,1500
+"885","1 Lincoln St, Boston, MA","888","133100 Vernon Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",974,686,1382
+"885","1 Lincoln St, Boston, MA","889","100 Fisher Avenue, Mission Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1565,1154,2122
+"885","1 Lincoln St, Boston, MA","890","0 Jamaica Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1889,1430,2495
+"885","1 Lincoln St, Boston, MA","891","0 Stedman Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1730,1299,2303
+"885","1 Lincoln St, Boston, MA","892","200 Chestnut Avenue, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1696,1323,2173
+"885","1 Lincoln St, Boston, MA","893","0 Hastings Street, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2415,1906,3058
+"885","1 Lincoln St, Boston, MA","894","0 Wren Street, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2644,2071,3375
+"885","1 Lincoln St, Boston, MA","895","0 Edson Street, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2307,1685,3157
+"885","1 Lincoln St, Boston, MA","896","300 Columbia Street, Wellington-Harrington, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1500,1124,2000
+"885","1 Lincoln St, Boston, MA","897","0 Cleveland Street, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2321,1717,3137
+"885","1 Lincoln St, Boston, MA","898","0 Webster Street, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2200,1538,3145
+"885","1 Lincoln St, Boston, MA","899","0 Watts Street, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1220,767,1938
+"885","1 Lincoln St, Boston, MA","900","0 Boatswains Way, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",905,568,1440
+"885","1 Lincoln St, Boston, MA","901","0 Willoughby Street, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1304,910,1866
+"885","1 Lincoln St, Boston, MA","902","0 Centre Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1145,804,1628
+"885","1 Lincoln St, Boston, MA","903","0 Gaston Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1431,1068,1916
+"885","1 Lincoln St, Boston, MA","904","0 Wolcott Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1668,1176,2364
+"885","1 Lincoln St, Boston, MA","905","100 Geneva Avenue, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1507,1034,2194
+"885","1 Lincoln St, Boston, MA","906","0 Romsey Circle, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",733,388,1383
+"885","1 Lincoln St, Boston, MA","907","0 Gene Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1142,736,1771
+"885","1 Lincoln St, Boston, MA","908","0 Monadnock Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1290,834,1993
+"885","1 Lincoln St, Boston, MA","909","500 Squire Road, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1450,923,2276
+"885","1 Lincoln St, Boston, MA","911","200 Garfield Avenue, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1355,907,2022
+"885","1 Lincoln St, Boston, MA","912","100 Crest Avenue, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1501,1078,2088
+"885","1 Lincoln St, Boston, MA","913","0 Petrel Street, Winthrop","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1794,1347,2388
+"885","1 Lincoln St, Boston, MA","915","Head Island Causeway, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",836,505,1382
+"885","1 Lincoln St, Boston, MA","916","0 Lee Burbank Highway, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1275,713,2277
+"885","1 Lincoln St, Boston, MA","917","Emerald Necklace, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1407,999,1980
+"885","1 Lincoln St, Boston, MA","927","0 Mill River Drive, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1944,1305,2894
+"885","1 Lincoln St, Boston, MA","930","0 Constitution Avenue, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1235,785,1941
+"885","1 Lincoln St, Boston, MA","943","Jefferson Saint Extension, Fall River","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3940,3259,4763
+"885","1 Lincoln St, Boston, MA","944","100 Cliff Road, Wellesley Hills, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1985,1459,2699
+"885","1 Lincoln St, Boston, MA","949","0 Pleasant Street, Auburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4149,3030,5680
+"885","1 Lincoln St, Boston, MA","951","0 Montgomery Drive, Millbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3786,2732,5245
+"885","1 Lincoln St, Boston, MA","952","0 Potter Hill Road, Grafton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3741,2730,5124
+"885","1 Lincoln St, Boston, MA","954","100 West Street, Northborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3525,2783,4464
+"885","1 Lincoln St, Boston, MA","955","100 Somerset Avenue, Winthrop","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1548,1142,2096
+"885","1 Lincoln St, Boston, MA","956","0 Lyman Street, Northborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3113,2465,3931
+"885","1 Lincoln St, Boston, MA","957","0 Bowman Street, Westborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3402,2313,5002
+"885","1 Lincoln St, Boston, MA","958","0 Brooks Street, Upton-West Upton, Upton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3424,2375,4935
+"885","1 Lincoln St, Boston, MA","959","0 Industrial Road, Milford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3575,2862,4465
+"885","1 Lincoln St, Boston, MA","962","0 Providence Road, North Grafton, Grafton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3639,2584,5123
+"885","1 Lincoln St, Boston, MA","963","0 Packet Landing Way, West Barnstable, Barnstable","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4939,4070,5993
+"885","1 Lincoln St, Boston, MA","965","200 River Road, Winthrop","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1760,1349,2295
+"885","1 Lincoln St, Boston, MA","966","100 Discovery Hill Road, East Sandwich, Sandwich","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4690,3969,5540
+"885","1 Lincoln St, Boston, MA","968","800 School Street, Mansfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2895,1898,4415
+"885","1 Lincoln St, Boston, MA","969","400 Ware Street, Mansfield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3146,2564,3860
+"885","1 Lincoln St, Boston, MA","978","100 Common Lane, Beverly","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2400,1905,3022
+"885","1 Lincoln St, Boston, MA","982","Vireo Loop, Marblehead","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3109,2667,3623
+"885","1 Lincoln St, Boston, MA","983","200 Lynnway, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2391,1784,3204
+"885","1 Lincoln St, Boston, MA","984","0 D'Orlando Way, Danvers","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2527,1979,3225
+"885","1 Lincoln St, Boston, MA","986","0 Harvard Avenue, West Medford, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1558,1051,2308
+"885","1 Lincoln St, Boston, MA","995","200 Billerica Road, Chelmsford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3061,2171,4315
+"885","1 Lincoln St, Boston, MA","996","Royal Plaza Drive, Marlborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3161,2418,4132
+"885","1 Lincoln St, Boston, MA","998","0 Evergreen Avenue, Burlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2815,2073,3821
+"885","1 Lincoln St, Boston, MA","999","100 Main Street, Wakefield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1988,1362,2899
+"885","1 Lincoln St, Boston, MA","1000","0 Centre Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1763,1268,2450
+"885","1 Lincoln St, Boston, MA","1001","0 Sargent Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1877,1352,2604
+"885","1 Lincoln St, Boston, MA","1002","500 Assembly Row, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",919,560,1508
+"885","1 Lincoln St, Boston, MA","1003","0 Packard Avenue, Tufts, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1728,1250,2388
+"885","1 Lincoln St, Boston, MA","1004","0 Linden Avenue, Spring Hill, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1707,1299,2241
+"885","1 Lincoln St, Boston, MA","1005","100 Sidney Street, Cambridgeport, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1340,901,1991
+"885","1 Lincoln St, Boston, MA","1006","0 Gray Gardens East, Neighborhood Nine, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1709,1302,2242
+"885","1 Lincoln St, Boston, MA","1007","0 Young Street, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2468,2001,3043
+"885","1 Lincoln St, Boston, MA","1009","100 Dutton Road, Sudbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3015,2431,3737
+"885","1 Lincoln St, Boston, MA","1010","0 Coolidge Hill Road, Watertown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1499,1093,2055
+"885","1 Lincoln St, Boston, MA","1011","0 Burdean Road, Oak Hill, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2120,1412,3181
+"885","1 Lincoln St, Boston, MA","1012","0 Wilde Road, Waban, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1674,1121,2498
+"885","1 Lincoln St, Boston, MA","1013","100 Seminary Avenue, Auburndale, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1439,995,2079
+"885","1 Lincoln St, Boston, MA","1014","0 Nixon Road, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2243,1567,3209
+"885","1 Lincoln St, Boston, MA","1016","100 Buckminster Road, Fisher Hill, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1973,1504,2588
+"885","1 Lincoln St, Boston, MA","1017","0 Tudor Road, Needham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2026,1396,2939
+"885","1 Lincoln St, Boston, MA","1018","0 Knollwood Drive, Dover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2909,2411,3509
+"885","1 Lincoln St, Boston, MA","1021","100 Walpole Street, Sharon","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2462,1602,3782
+"885","1 Lincoln St, Boston, MA","1022","0 Morse Street, Sharon","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2532,2073,3091
+"885","1 Lincoln St, Boston, MA","1023","0 Norman Street, Milton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1752,1217,2520
+"885","1 Lincoln St, Boston, MA","1024","300 Adams Street, Milton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",949,587,1532
+"885","1 Lincoln St, Boston, MA","1025","0 Reservoir Drive, Randolph","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2276,1689,3065
+"885","1 Lincoln St, Boston, MA","1026","200 South Main Street, Randolph","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2509,1883,3341
+"885","1 Lincoln St, Boston, MA","1027","300 Neck Street, North Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2419,1818,3217
+"885","1 Lincoln St, Boston, MA","1028","0 Park Avenue, Hull","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3178,2431,4153
+"885","1 Lincoln St, Boston, MA","1029","200 Pine Street, Norwell","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2823,2075,3839
+"885","1 Lincoln St, Boston, MA","1033","Fall River Expressway, West Bridgewater","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2852,2111,3852
+"885","1 Lincoln St, Boston, MA","1034","100 Armstrong Road, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3842,2986,4941
+"885","1 Lincoln St, Boston, MA","1036","Pilgrims Highway, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4537,3554,5791
+"885","1 Lincoln St, Boston, MA","1037","Unnamed Road, East Wareham, Wareham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5598,4065,7707
+"885","1 Lincoln St, Boston, MA","1038","0 Old Rutherford Avenue, Charlestown, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",687,392,1201
+"885","1 Lincoln St, Boston, MA","1039","0 Flint Place, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",819,574,1166
+"885","1 Lincoln St, Boston, MA","1040","900 Massachusetts Avenue, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",525,257,1071
+"885","1 Lincoln St, Boston, MA","1041","0 Kendall Street, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",863,582,1277
+"885","1 Lincoln St, Boston, MA","1042","0 Townsend Street, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1202,846,1706
+"885","1 Lincoln St, Boston, MA","1043","200 Savin Hill Avenue, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",722,395,1318
+"885","1 Lincoln St, Boston, MA","1044","0 Ames Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2049,1553,2701
+"885","1 Lincoln St, Boston, MA","1045","0 Brockton Street, Mattapan, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2330,1579,3437
+"885","1 Lincoln St, Boston, MA","1047","0 Ardale Street, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2180,1588,2992
+"885","1 Lincoln St, Boston, MA","1048","Airport Road Terminal C - Departure Level, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",853,526,1383
+"885","1 Lincoln St, Boston, MA","1053","100 Greenwood Street, Quinsigamond Village, Worcester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3747,2799,5015
+"885","1 Lincoln St, Boston, MA","1054","0 Old Common, Millbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3918,2821,5440
+"885","1 Lincoln St, Boston, MA","1056","0 Valley Road, Southborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2708,1949,3762
+"885","1 Lincoln St, Boston, MA","1060","600 Mary Dunn Road, Hyannis, Barnstable","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5387,4528,6407
+"885","1 Lincoln St, Boston, MA","1064","0 Glen Forest Lane, Methuen","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2862,2072,3951
+"885","1 Lincoln St, Boston, MA","1065","0 Volk Road, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2726,1575,4716
+"885","1 Lincoln St, Boston, MA","1066","0 Warner Trail Road, Wrentham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3276,2491,4306
+"885","1 Lincoln St, Boston, MA","1068","1300 Bennington Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1480,1099,1992
+"885","1 Lincoln St, Boston, MA","1075","0 Oakview Terrace, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1673,1247,2243
+"885","1 Lincoln St, Boston, MA","1077","400 Moody Street, South Side, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1837,1423,2370
+"885","1 Lincoln St, Boston, MA","1078","0 Wellesley Street, South Medford, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1522,1068,2168
+"885","1 Lincoln St, Boston, MA","1079","0 Brent Road, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2266,1755,2925
+"885","1 Lincoln St, Boston, MA","1080","0 Teaberry Lane, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1873,1241,2826
+"885","1 Lincoln St, Boston, MA","1084","100 Main Street, Sandwich, Sandwich","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4423,3633,5384
+"885","1 Lincoln St, Boston, MA","1085","0 Spectacle Pond Drive, East Falmouth, Falmouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",6786,5511,8355
+"885","1 Lincoln St, Boston, MA","1089","200 Buck Knoll Road, Raynham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3280,2443,4403
+"885","1 Lincoln St, Boston, MA","1094","0 Sherbrook Place, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2241,1878,2673
+"885","1 Lincoln St, Boston, MA","1095","0 Oxford Street, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2389,1823,3130
+"885","1 Lincoln St, Boston, MA","1099","0 Station Street, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1824,1423,2337
+"885","1 Lincoln St, Boston, MA","1100","0 Lowell Street, Andover, Andover","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3582,2861,4484
+"885","1 Lincoln St, Boston, MA","1102","0 Greenlodge Street, Dedham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1888,1302,2737
+"885","1 Lincoln St, Boston, MA","1103","100 Kendrick Avenue, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1682,1157,2443
+"885","1 Lincoln St, Boston, MA","1104","100 Grove Street, Braintree","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1836,1201,2805
+"885","1 Lincoln St, Boston, MA","1105","0 Fitzpatrick Street, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2505,1896,3309
+"885","1 Lincoln St, Boston, MA","1107","0 Winthrop Street, Kingston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3635,2822,4681
+"885","1 Lincoln St, Boston, MA","1110","Cambridge Street, Allston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",691,368,1296
+"885","1 Lincoln St, Boston, MA","1111","Northwest Expressway, Tyngsborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4024,3251,4980
+"885","1 Lincoln St, Boston, MA","1112","1400 Shawsheen Street, Tewksbury","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2323,1580,3413
+"885","1 Lincoln St, Boston, MA","1113","200 Rangeway Road, North Billerica, Billerica","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2976,2087,4241
+"885","1 Lincoln St, Boston, MA","1116","Harborwalk, Waterfront, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",331,142,771
+"885","1 Lincoln St, Boston, MA","1117","0 Gold Star Street, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1240,802,1915
+"885","1 Lincoln St, Boston, MA","1118","0 McGreevey Way, Mission Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1268,917,1751
+"885","1 Lincoln St, Boston, MA","1119","0 Coleus Park, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1418,974,2062
+"885","1 Lincoln St, Boston, MA","1120","0 Melville Avenue, Dorchester, Dorchester Center, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1607,1065,2423
+"885","1 Lincoln St, Boston, MA","1121","100 Woodley Avenue, West Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2949,2288,3799
+"885","1 Lincoln St, Boston, MA","1122","100 Webster Avenue, Chelsea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1038,688,1563
+"885","1 Lincoln St, Boston, MA","1123","Conifer Path, Jamaica Hills / Pond, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2028,1554,2646
+"885","1 Lincoln St, Boston, MA","1126","0 Stark Avenue, Wakefield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2157,1573,2957
+"885","1 Lincoln St, Boston, MA","1127","100 South Border Road, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1302,824,2054
+"885","1 Lincoln St, Boston, MA","1128","0 Lowden Avenue, Powder House Square, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1582,1149,2177
+"885","1 Lincoln St, Boston, MA","1129","0 Shepard Street, Neighborhood Nine, Cambridge","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1545,1049,2274
+"885","1 Lincoln St, Boston, MA","1130","0 Louise Road, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1953,1525,2499
+"885","1 Lincoln St, Boston, MA","1131","Yankee Division Highway, Lexington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2285,1790,2916
+"885","1 Lincoln St, Boston, MA","1132","0 French Drive, Boylston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3240,2636,3981
+"885","1 Lincoln St, Boston, MA","1135","100 Main Street, Southborough","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2869,2101,3917
+"885","1 Lincoln St, Boston, MA","1137","0 Marion Avenue, Woburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2135,1012,4502
+"885","1 Lincoln St, Boston, MA","1138","0 Loring Avenue, Winchester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2397,1728,3324
+"885","1 Lincoln St, Boston, MA","1140","300 Mystic Avenue, South Medford, Medford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1130,690,1849
+"885","1 Lincoln St, Boston, MA","1141","0 Forest Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1954,1449,2634
+"885","1 Lincoln St, Boston, MA","1142","200 Massachusetts Avenue, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2076,1390,3100
+"885","1 Lincoln St, Boston, MA","1143","300 Crescent Street, South Side, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1729,1291,2314
+"885","1 Lincoln St, Boston, MA","1144","0 Scout Road, East Walpole, Walpole","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2366,1449,3862
+"885","1 Lincoln St, Boston, MA","1148","Railroad Trail, Assonet, Freetown","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3753,2860,4924
+"885","1 Lincoln St, Boston, MA","1150","Overlook Trail, Lynn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2289,1878,2788
+"885","1 Lincoln St, Boston, MA","1151","0 Saugus Avenue, Saugus","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1868,1257,2775
+"885","1 Lincoln St, Boston, MA","1154","0 Newport Park Road, Manchester-by-the-Sea","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2393,1971,2905
+"885","1 Lincoln St, Boston, MA","1157","100 Blue Ledge Drive, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2770,2251,3408
+"885","1 Lincoln St, Boston, MA","1160","100 Austin Street, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2391,1604,3562
+"885","1 Lincoln St, Boston, MA","1162","300 North Road, North Chelmsford, Chelmsford","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3508,2731,4506
+"885","1 Lincoln St, Boston, MA","1163","300 East Eagle Street, Eagle Hill, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1061,634,1773
+"885","1 Lincoln St, Boston, MA","1164","0 West Howell Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",633,312,1282
+"885","1 Lincoln St, Boston, MA","1165","900 American Legion Highway, Roslindale, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2270,1657,3109
+"885","1 Lincoln St, Boston, MA","1170","0 Garden Avenue, Wilmington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2315,1547,3462
+"885","1 Lincoln St, Boston, MA","1171","Dike Road, Stoneham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1462,950,2248
+"885","1 Lincoln St, Boston, MA","1173","300 Lafayette Street, Salem","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3559,2767,4576
+"885","1 Lincoln St, Boston, MA","1174","600 Lynn Fells Parkway, Melrose","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1882,1341,2640
+"885","1 Lincoln St, Boston, MA","1175","0 Fellsmere Road, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1565,1054,2323
+"885","1 Lincoln St, Boston, MA","1177","0 Louds Avenue, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1920,1281,2876
+"885","1 Lincoln St, Boston, MA","1178","0 Trustman Terrace, East Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1124,687,1838
+"885","1 Lincoln St, Boston, MA","1179","100 West Canton Street, Columbus, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",408,126,1316
+"885","1 Lincoln St, Boston, MA","1183","200 Captain Eames Circle, Ashland","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3453,2636,4522
+"885","1 Lincoln St, Boston, MA","1184","200 Walnut Street, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2277,1773,2923
+"885","1 Lincoln St, Boston, MA","1185","0 Parsons Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1408,985,2011
+"885","1 Lincoln St, Boston, MA","1186","0 Norway Park, Hyde Park, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1818,1357,2434
+"885","1 Lincoln St, Boston, MA","1189","0 Fairbanks Street, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",814,488,1356
+"885","1 Lincoln St, Boston, MA","1190","0 Willow Avenue, Davis Square, Somerville","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1848,1428,2391
+"885","1 Lincoln St, Boston, MA","1192","0 Woodside Road, Winchester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1723,1227,2418
+"885","1 Lincoln St, Boston, MA","1193","1100 Beacon Street, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",580,260,1291
+"885","1 Lincoln St, Boston, MA","1194","0 Louise Road, Holbrook","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1939,1460,2574
+"885","1 Lincoln St, Boston, MA","1195","0 Howe Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1304,858,1981
+"885","1 Lincoln St, Boston, MA","1197","100 North Pearl Street, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2502,1803,3471
+"885","1 Lincoln St, Boston, MA","1198","100 Ashland Street, Malden","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1664,1187,2331
+"885","1 Lincoln St, Boston, MA","1199","Lifecourse Trail, Newton Highlands, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2147,1589,2900
+"885","1 Lincoln St, Boston, MA","1200","0 Sarah Sherman Road, Rochester","4/3/2017 - 5/27/2017, Weekdays, PM Peak",5316,3783,7470
+"885","1 Lincoln St, Boston, MA","1202","0 Charles Street, East Weymouth, Weymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2417,1823,3203
+"885","1 Lincoln St, Boston, MA","1203","1200 West Street, Stoughton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2573,2083,3176
+"885","1 Lincoln St, Boston, MA","1206","0 North Doris Avenue, Brockton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2754,2088,3631
+"885","1 Lincoln St, Boston, MA","1207","0 Bay State Circle, Abington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2131,1642,2764
+"885","1 Lincoln St, Boston, MA","1208","0 1st Street, Bridgewater","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3176,2337,4315
+"885","1 Lincoln St, Boston, MA","1209","Cathedral Road, Plymouth","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4217,3265,5445
+"885","1 Lincoln St, Boston, MA","1211","Chestnut Hill Reservoir Trail, Brighton, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1748,1262,2419
+"885","1 Lincoln St, Boston, MA","1212","0 Snow Hill Street, North End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",694,430,1118
+"885","1 Lincoln St, Boston, MA","1213","200 East 8th Street, South Boston, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",896,570,1408
+"885","1 Lincoln St, Boston, MA","1214","0 East Concord Street, South End, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",568,332,970
+"885","1 Lincoln St, Boston, MA","1215","0 Beauford Lane, Roxbury, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1362,968,1914
+"885","1 Lincoln St, Boston, MA","1220","0 Perry Place, Auburn","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4244,3150,5717
+"885","1 Lincoln St, Boston, MA","1224","Wood Road, Bourne","4/3/2017 - 5/27/2017, Weekdays, PM Peak",4932,3896,6242
+"885","1 Lincoln St, Boston, MA","1225","0 West Elm Avenue, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1443,998,2084
+"885","1 Lincoln St, Boston, MA","1226","0 Sturtevant Street, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",805,454,1427
+"885","1 Lincoln St, Boston, MA","1227","0 Port Norfolk Street, Dorchester, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",825,482,1410
+"885","1 Lincoln St, Boston, MA","1228","0 Ashley Street, Jamaica Plain, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1517,1131,2034
+"885","1 Lincoln St, Boston, MA","1229","0 Michael Road, Wakefield","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2241,1583,3171
+"885","1 Lincoln St, Boston, MA","1230","100 Millwood Street, Framingham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2346,1639,3356
+"885","1 Lincoln St, Boston, MA","1232","400 Newton Street, Chestnut Hill, Brookline","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2144,1648,2787
+"885","1 Lincoln St, Boston, MA","1233","0 Thackeray Road, Wellesley Hills, Wellesley","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1810,1235,2652
+"885","1 Lincoln St, Boston, MA","1234","100 Holliston Street, Medway","4/3/2017 - 5/27/2017, Weekdays, PM Peak",3838,3158,4663
+"885","1 Lincoln St, Boston, MA","1235","600 Cedar Street, Walpole","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2950,2288,3802
+"885","1 Lincoln St, Boston, MA","1236","200 North Main Street, Sharon","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2842,1964,4111
+"885","1 Lincoln St, Boston, MA","1237","100 Colonial Drive, Quincy","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1798,1232,2622
+"885","1 Lincoln St, Boston, MA","1238","0 Orient Avenue, Arlington","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2536,1935,3322
+"885","1 Lincoln St, Boston, MA","1239","0 Walnut Street, Belmont","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2005,1406,2858
+"885","1 Lincoln St, Boston, MA","1240","0 Middlesex Circle, Waltham","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2066,1575,2708
+"885","1 Lincoln St, Boston, MA","1241","0 Kenilworth Street, Newton Corner, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1411,992,2006
+"885","1 Lincoln St, Boston, MA","1242","0 Scribner Park, Auburndale, Newton","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1293,880,1898
+"885","1 Lincoln St, Boston, MA","1245","0 Leland Road, North Reading","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1997,1435,2777
+"885","1 Lincoln St, Boston, MA","1246","North Shore Road, Revere","4/3/2017 - 5/27/2017, Weekdays, PM Peak",1901,1402,2577
+"885","1 Lincoln St, Boston, MA","1247","Stony Brook Path, Boston","4/3/2017 - 5/27/2017, Weekdays, PM Peak",2662,2075,3414
